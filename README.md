@@ -48,8 +48,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Hector's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+![Hector's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HectorStimer&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorStimer&layout=compact&theme=tokyonight)
 
 ---
 
