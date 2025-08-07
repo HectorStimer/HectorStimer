@@ -12,10 +12,9 @@
 ---
 
 ## 🚀 Sobre mim
+- 📖 Acadêmico do curso de Tecnologia de Análise e Desenvolvimento de Sistemas da faculdade Uniguairacá
 - 🎯 Foco em **desenvolvimento web**
 - 🛠 Experiência com **PHP, MySQL, Flask, Spring Boot**
-- 🐍 Experiência introdutória com Python (lógica, automação, manipulação de dados)
-- 🌱 Atualmente aprendendo **TypeScript, Node.js e testes automatizados**
 - 💡 Interesses em tecnologias modernas e desafios de programação
 
 ---
