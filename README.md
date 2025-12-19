@@ -12,8 +12,8 @@
 
 ## 🚀 Sobre mim
 - 📖 Acadêmico do curso de Tecnologia de Análise e Desenvolvimento de Sistemas da faculdade Uniguairacá
-- 🎯 Foco em **desenvolvimento web**
-- 🛠 Experiência com **PHP, MySQL, Flask, Spring Boot**
+- 🎯 Foco em **desenvolvimento**
+- 🛠 Experiência com **Laravel, Flask, Spring Boot, Postgress, MySQL**
 - 💡 Interesses em tecnologias modernas e desafios de programação
 
 ---
@@ -37,9 +37,9 @@
 
 ## 📂 Projetos em destaque
 - **Sistema de Agendamento de Voos** – gerenciamento de datas e cidades de instrutores (WordPress plugin)
-- **Fila de Atendimento Hospitalar** – Sistema com Spring Boot e persistência em banco de dados
+- **Fila de Atendimento Hospitalar** – Sistema com Laravel e persistência em banco de dados
 - **Conversor e Tradutor de PDFs Técnicos** – Script Python com OCR e exportação profissional para Excel
-- **Plataforma de Gestão de Alunos e Professores** – com login, controle de treinamentos e resultados
+- **Plataforma de Academia com Gestão de Alunos e Professores** – com login, controle de treinamentos e resultados
 - **Projetos pessoais e acadêmicos** – com foco em desafios reais e aprendizado contínuo
 
 ---
