@@ -40,13 +40,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Hector's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HectorStimer&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorStimer&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contato
 - **E-mail:** hectorstimerdasilva@gmail.com
 - **LinkedIn:** [linkedin.com/in/hectorstimer](https://linkedin.com/in/hectorstimer)
