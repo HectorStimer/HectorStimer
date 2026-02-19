@@ -13,7 +13,7 @@
 ## 🚀 Sobre mim
 - 📖 Acadêmico do curso de Tecnologia de Análise e Desenvolvimento de Sistemas da faculdade Uniguairacá
 - 🎯 Foco em **desenvolvimento**
-- 🛠 Experiência com **Laravel, Flask, Spring Boot, Postgress, MySQL**
+- 🛠 Experiência com **Laravel, Flask, Spring Boot, Postgress, MySQL, React**
 - 💡 Interesses em tecnologias modernas e desafios de programação
 
 ---
