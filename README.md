@@ -4,21 +4,21 @@
 
 # 👋 Olá, eu sou o Hector!
 
-💻 **Desenvolvedor e entusiasta de tecnologia**  
-📍 Guarapuava - PR, Brasil  
-📈 Sempre em busca de evolução profissional e pessoal  
+ **Desenvolvedor e entusiasta de tecnologia**  
+ Guarapuava - PR, Brasil  
+ Sempre em busca de evolução profissional  
 
 ---
 
-## 🚀 Sobre mim
-- 📖 Acadêmico do curso de Tecnologia de Análise e Desenvolvimento de Sistemas da faculdade Uniguairacá
-- 🎯 Foco em **desenvolvimento**
-- 🛠 Experiência com **Laravel, Flask, Spring Boot, Postgress, MySQL, React**
-- 💡 Interesses em tecnologias modernas e desafios de programação
+##  Sobre mim
+- Acadêmico do curso de Tecnologia de Análise e Desenvolvimento de Sistemas da faculdade Uniguairacá
+- Foco em **desenvolvimento**
+- Experiência com **Laravel, Flask, Spring Boot, Postgress, MySQL, React**
+- Interesses em tecnologias modernas e desafios de programação
 
 ---
 
-## 🔧 Linguagens e Ferramentas
+##  Linguagens e Ferramentas
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,7 +31,7 @@
 
 ---
 
-## 📂 Projetos em destaque
+## Projetos em destaque
 - **Sistema de Agendamento de Voos** – gerenciamento de datas e cidades de instrutores (WordPress plugin)
 - **Fila de Atendimento Hospitalar** – Sistema com Laravel e persistência em banco de dados
 - **Conversor e Tradutor de PDFs Técnicos** – Script Python com OCR e exportação profissional para Excel
@@ -40,7 +40,7 @@
 
 ---
 
-## 📫 Contato
+##  Contato
 - **E-mail:** hectorstimerdasilva@gmail.com
 - **LinkedIn:** [linkedin.com/in/hectorstimer](https://linkedin.com/in/hectorstimer)
 
