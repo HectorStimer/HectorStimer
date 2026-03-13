@@ -33,11 +33,10 @@
 
 ## Projetos em destaque
 - **Sistema de Gestão para Lanchonete** - Gerenciamento de comanda, cardápio, gestão administrativa e usuários com roles de ADMIN e CLERK. Stack: Spring Boot, PostgreSQL, Keycloak, Docker, React, TypeScript
+-  **Modulo de Atualizaçao de sistema ERP** - Sistema de auto-atualização de módulos ERP legado via Google Drive API — Spring Boot + JavaFX
 - **Fila de Atendimento Hospitalar** – Sistema com Laravel e persistência em banco de dados
 - **Plataforma de Academia com Gestão de Alunos e Professores** – com login, controle de treinamentos e resultados
 - **Sistema de Agendamento de Voos** – gerenciamento de datas e cidades de instrutores (WordPress plugin)
-- **Conversor e Tradutor de PDFs Técnicos** – Script Python com OCR e exportação profissional para Excel
-- **Projetos pessoais e acadêmicos** – com foco em desafios reais e aprendizado contínuo
 
   
 ---
