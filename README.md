@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Hector+%F0%9F%91%8B;Desenvolvedor+Backend;Apaixonado+por+tecnologia+e+games;Sempre+aprendendo+coisas+novas)](https://git.io/typing-svg)
-
 <div align="center">
 
 # Hector Stimer da Silva
