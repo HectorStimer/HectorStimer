@@ -80,10 +80,14 @@ interesses: [tecnologias modernas, desafios de programação, games]
 
 **Stack:** Laravel · MySQL
 
+[![Repositório](https://img.shields.io/badge/Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HectorStimer/ProjetoLaravel)
+
 ---
 
 ###  Plataforma de Academia
 > Gestão de alunos e professores com login, controle de treinamentos e resultados.
+
+[![Repositório](https://img.shields.io/badge/Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HectorStimer/academia)
 
 ---
 
@@ -91,6 +95,8 @@ interesses: [tecnologias modernas, desafios de programação, games]
 > Gerenciamento de datas e cidades de instrutores desenvolvido como plugin WordPress.
 
 **Stack:** WordPress · PHP
+
+[![Acessar Projeto](https://img.shields.io/badge/Site-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://voeguairacaaviation.com.br/agende-seu-voo/)
 
 ---
 
