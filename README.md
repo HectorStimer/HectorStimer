@@ -20,7 +20,7 @@ localização: Guarapuava - PR, Brasil
 formação:   Tecnologia em Análise e Desenvolvimento de Sistemas — Uniguairacá
 foco:       Desenvolvimento Backend
 stack:      Spring Boot · Java · PostgreSQL · MySQL · React
-interesses: [tecnologias modernas, desafios de programação, games]
+interesses: [tecnologias modernas, desenvolvimento]
 ```
 
 ---
