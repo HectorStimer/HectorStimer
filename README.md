@@ -55,10 +55,30 @@ interesses: [tecnologias modernas, desenvolvimento]
 
 ##  Projetos em Destaque
 
-###  Sistema de Gestão para Lanchonete
-> Gerenciamento completo de comandas, cardápio e usuários com controle de acesso por roles.
 
-**Stack:** Spring Boot · PostgreSQL · Keycloak · Docker · React · TypeScript
+###  Encurtador de Links (URL Shortener API)
+> API robusta para encurtamento de URLs com foco em performance, segurança e escalabilidade, utilizando boas práticas de arquitetura backend.
+
+**Destaques técnicos:**
+-  Autenticação e autorização com Spring Security
+-  Cache com Redis para alta performance na resolução de URLs
+-  Rate limiting com Bucket4j para proteção contra abuso e ataques
+-  Persistência com PostgreSQL e versionamento de schema com Flyway
+-  Validação de dados com Bean Validation
+-  Documentação interativa com Swagger (OpenAPI)
+-  Estratégia de fallback (cache → banco) para garantir disponibilidade
+-  Suporte a expiração de links (TTL)
+
+**Stack:** Spring Boot · Redis · PostgreSQL · Flyway · Spring Security · Bean Validation · Bucket4j · Swagger · Docker
+
+[![Repositório](https://img.shields.io/badge/Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HectorStimer/URL-Shortener)
+
+---
+
+###  Sistema de Gestão para Lanchonete
+> Gerenciamento completo de comandas, cardápio e usuários com controle de acesso por roles. Projeto para lanchonete local.
+
+**Stack:** Spring Boot · PostgreSQL · Keycloak · Docker · React · TypeScript · Bean Validation
 
 [![API](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HectorStimer/web-hotdogtaz-back)
 [![Frontend](https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HectorStimer/web-hotdogtaz-front-tcc)
