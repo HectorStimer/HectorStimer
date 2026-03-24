@@ -52,6 +52,7 @@ Atualmente buscando oportunidades remotas para contribuir em produtos que prezam
 - **Dashboard administrativo** responsivo desenvolvido com React e TypeScript
 
  [github.com/HectorStimer/web-hotdogtaz-back](https://github.com/HectorStimer/web-hotdogtaz-back)
+ 
  [github.com/HectorStimer/web-hotdogtaz-front-tcc](https://github.com/HectorStimer/web-hotdogtaz-front-tcc)
 
 ---
@@ -63,6 +64,7 @@ Atualmente buscando oportunidades remotas para contribuir em produtos que prezam
 - **Interface de usuário moderna** desenvolvida em JavaFX para uso pelo time de suporte
 
  [github.com/HectorStimer/erp-launcher](https://github.com/HectorStimer/erp-launcher)
+ 
  [github.com/HectorStimer/erp-updater](https://github.com/HectorStimer/erp-updater)
 
 ---
