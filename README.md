@@ -2,7 +2,7 @@
 
 # Hector Stimer da Silva
 
-**Backend Software Engineer · Java & Spring Boot**
+**Backend Developer · Java & Spring Boot**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hectorstimer)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hectorstimerdasilva@gmail.com)
@@ -12,9 +12,11 @@
 
 ---
 
-Desenvolvedor Backend especializado no ecossistema **Java/Spring**, com foco em construção de sistemas de alta disponibilidade, APIs performáticas e arquiteturas resilientes. Experiência prática com segurança, caching, mensageria e automação de deploys.
+Desenvolvedor Backend com foco em Java e Spring Boot, com experiência no desenvolvimento de APIs REST, autenticação com JWT, caching com Redis e integração com serviços externos.
 
-Atualmente buscando oportunidades remotas para contribuir em produtos que prezam por qualidade de código, boas práticas e impacto real.
+Experiência prática com sistemas reais, incluindo automação de processos internos e plataformas de gestão comercial, aplicando boas práticas como arquitetura em camadas, SOLID e testes automatizados.
+
+Disponível para atuar como desenvolvedor backend, contribuindo com desenvolvimento de APIs, integrações e melhoria de sistemas existentes.
 
 ---
 
@@ -23,7 +25,7 @@ Atualmente buscando oportunidades remotas para contribuir em produtos que prezam
 | Área | Tecnologias |
 |---|---|
 | **Linguagens** | Java 17/21 · TypeScript · SQL · PHP |
-| **Frameworks & Libs** | Spring Boot 3/4 · Spring Security · Hibernate · React |
+| **Frameworks & Libs** | Spring Boot 3 · Spring Security · Hibernate · React |
 | **Banco de Dados** | PostgreSQL · MySQL · Redis |
 | **Infraestrutura** | Docker · Flyway · Keycloak · Google Drive API |
 | **Qualidade & Testes** | JUnit 5 · Mockito · Bean Validation · SOLID · Cypress |
@@ -33,7 +35,7 @@ Atualmente buscando oportunidades remotas para contribuir em produtos que prezam
 ## Projetos em Destaque
 
 ### URL Shortener API
-> API REST de encurtamento de links com foco em alta performance e baixa latência.
+> API REST de encurtamento de links com foco em redução de carga no banco de dados e resposta rápida em acessos frequentes.
 
 - **Cache em dois níveis** com Redis + PostgreSQL e fallback estratégico, reduzindo carga no banco em acessos recorrentes
 - **Proteção contra abuso** via Rate Limiting com Bucket4j e autenticação JWT
@@ -45,7 +47,7 @@ Atualmente buscando oportunidades remotas para contribuir em produtos que prezam
 ---
 
 ### Sistema de Gestão Hotdogtaz
-> Plataforma fullstack para automação comercial de lanchonetes e restaurantes.
+> Sistema desenvolvido como solução real para automação de processos em ambiente comercial. Aplicação estruturada seguindo arquitetura em camadas.
 
 - **Controle de acesso** baseado em roles via Keycloak (RBAC), garantindo isolamento por perfil de usuário
 - **Regras de negócio complexas** para fechamento de comandas e recálculo dinâmico de pedidos
@@ -58,7 +60,7 @@ Atualmente buscando oportunidades remotas para contribuir em produtos que prezam
 ---
 
 ### Módulo de Atualização ERP (ERP Launcher)
-> Solução para distribuição automatizada de patches e módulos em sistemas legados.
+> Distribuição de atualizações de forma centralizada para múltiplos clientes, reduzindo necessidade de intervenção manual do time de suporte.
 
 - **Integração com Google Drive API** para hospedagem e download de artefatos de atualização
 - **Interface de usuário moderna** desenvolvida em JavaFX para uso pelo time de suporte
